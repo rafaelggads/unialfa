@@ -60,13 +60,13 @@ Iniciando serviço consul em modo desenvolvimento.
 	consul agent -server -bootstrap-expect=1 -data-dir=consul.d -ui -bind=169.254.156.24
 
 
-Portas dos microserviços
+Portas dos microserviços:
 
-acme-car:8080
-acme-travel:8180
-acme-hotel:8280
-acme-fly:8380
-acme-pay:8480
-api-gateway:8580
+- acme-car:8080
+- acme-travel:8180
+- acme-hotel:8280
+- acme-fly:8380
+- acme-pay:8480
+- api-gateway:8580
 
 
