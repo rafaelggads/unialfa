@@ -91,4 +91,9 @@ Portas dos microserviços:
 - api-gateway
 ```bash
     http://localhost:8580/api/greeting
+	http://localhost:8580/api/acme-car/greeting
+	http://localhost:8580/api/acme-travel/greeting
+	http://localhost:8580/api/acme-hotel/greeting
+	http://localhost:8580/api/acme-fly/greeting
+	http://localhost:8580/api/acme-pay/greeting
 ```
