@@ -1,4 +1,8 @@
-# Projeto Microseviços
+# Projeto de exemplo em Microseviços
+
+
+![agência de viagem](acme-company.png)
+
 
 
 ## Acme Travel (Sprint Boot)
@@ -57,6 +61,7 @@ https://dzone.com/articles/a-quick-guide-to-microservices-with-the-micronaut
 Iniciando serviço consul em modo desenvolvimento.
 
     
+	consul agent -server -bootstrap-expect=1 -data-dir=consul.d -ui -bind=169.254.156.24
 	consul agent -server -bootstrap-expect=1 -data-dir=consul.d -ui -bind=169.254.156.24
 
 
