@@ -1,7 +1,7 @@
 # Projeto de exemplo em Microseviços
 
 
-![agência de viagem](acme-company.png)
+![agência de viagem](img/acme-company.png)
 
 Representa uma agência de viagens com 5 microserviços e uma API gateway.
 
@@ -53,37 +53,19 @@ Representa uma agência de viagens com 5 microserviços e uma API gateway.
 
 ### Acme Travel (Sprint Boot)
 
-É um sistema de agencia de turismo   
-
-
-Modelo de dominio: Cliente e Reservas
-
-
-Gerando uma aplicação inicial com os componentes spring-boot.
-
+Representa um sistema de agencia de turismo   
 
 ## Acme Fly (Apache Camel)
-É um sistema para reserva de voos
-
-Modelo de dominio: Cliente, Aeronaves, Reservas
+Representa um sistema para reserva de voos
 
 ## Acme Hotel (Quarkus)
-É um sistema para reserva de hoteis
-
-Modelo de dominio: Cliente, Quartos, Reservas
-
-    
+Repreenta um sistema para reserva de hoteis
 
 ## Acme Cars (Microprofile)
-É um sistema para reserva de carros
-
-Modelo de dominio: Cliente, Carros, Reservas
+Representa um sistema para reserva de carros
 
 ## Acme Payments (micronaut)
-É um sistema para pagamentos
-
-Modelo de dominio: Cliente, Conta, Transaçoes
-
+Representa um sistema para pagamentos
 
 Portas dos microserviços:
 - acme-car    
