@@ -89,24 +89,24 @@ Portas dos microserviços:
 - acme-car    
 ```bash
     http://localhost:8080/api/greeting
-
+```
 - acme-travel
 ```bash
     http://localhost:8180/api/greeting
-
+```
 - acme-hotel
 ```bash
     http://localhost:8280/api/greeting
-
+```
 - acme-fly
 ```bash
     http://localhost:8380/api/greeting
-
+```
 - acme-pay
 ```bash
     http://localhost:8480/api/greeting
-
+```
 - api-gateway
 ```bash
     http://localhost:8580/api/greeting
-
+```
