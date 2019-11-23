@@ -29,11 +29,11 @@ RabbitMQ host:
 
 ## Estado do Serviço
 
-http://localhost:<port>/acme-car/health
-http://localhost:<port>/acme-fly/health
-http://localhost:<port>/acme-hotel/health
-http://localhost:<port>/acme-pay/health
-http://localhost:<port>/acme-travel/health
+- http://localhost:<port>/acme-car/health
+- http://localhost:<port>/acme-fly/health
+- http://localhost:<port>/acme-hotel/health
+- http://localhost:<port>/acme-pay/health
+- http://localhost:<port>/acme-travel/health
 
 
 # Requests
